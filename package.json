@@ -1,0 +1,24 @@
+{
+  "name": "anonymous-chat-service",
+  "version": "1.0.0",
+  "description": "anonymous-chat-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thyahan/anonymous-chat-service.git"
+  },
+  "keywords": [
+    "anonymous",
+    "chat",
+    "service"
+  ],
+  "author": "Yutthana Yahan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyahan/anonymous-chat-service/issues"
+  },
+  "homepage": "https://github.com/thyahan/anonymous-chat-service#readme"
+}
